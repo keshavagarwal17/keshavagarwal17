@@ -1,7 +1,6 @@
-### Hi, I'm Keshav Agarwal! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-
-
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
+### Hi, I'm Keshav Agarwal! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 
 - 🔭 I’m currently working on **Nothing**.
