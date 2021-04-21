@@ -12,7 +12,7 @@
 
 ![Keshav Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Keshav-Agarwal&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Keshav-Agarwal&layout=compact&count_private=true&langs_count=5&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Keshav-Agarwal&layout=compact&count_private=true&langs_count=5&theme=radical)
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=The-Keshav-Agarwal.The-Keshav-Agarwal)
