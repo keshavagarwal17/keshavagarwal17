@@ -10,9 +10,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love **sleeping** and watching **tmkoc**.
 
-![Keshav Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Keshav-Agarwal&show_icons=true&theme=radical)
+![Keshav Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Keshav-Agarwal&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Keshav-Agarwal&layout=compact&langs_count=5&theme=radical)](https://github.com/The-Keshav-Agarwal/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Keshav-Agarwal&layout=compact&count_private=true&langs_count=5&theme=radical)]
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=The-Keshav-Agarwal.The-Keshav-Agarwal)
