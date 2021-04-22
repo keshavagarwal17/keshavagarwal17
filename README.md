@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/keshav-agarwal-84b5221a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 
 [![Badge](https://cp-logo.vercel.app/codechef/agarwal_keshav?logo=true)](https://www.codechef.com/users/agarwal_keshav)
-[![Badge](https://cp-logo.vercel.app/codeforces/k_agarwal?logo=true)](https://www.codechef.com/users/k_agarwal)
+[![Badge](https://cp-logo.vercel.app/codeforces/k_agarwal?logo=true)](https://codeforces.com/profile/k_agarwal)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=The-Keshav-Agarwal.The-Keshav-Agarwal)
 
 ![Keshav Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Keshav-Agarwal&count_private=true&show_icons=true&theme=radical)
