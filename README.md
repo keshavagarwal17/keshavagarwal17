@@ -9,10 +9,16 @@
 - 🤔 I’m looking for help with **DSA**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love **sleeping** and watching **tmkoc**.
+- 📫 Let us Connect: 
+  <p align='center'>
+  <a href="mailto:keshavagarwal1710@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/keshav-agarwal-84b5221a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+
+[![Badge](https://cp-logo.vercel.app/codechef/agarwal_keshav?logo=true)](https://www.codechef.com/users/agarwal_keshav)
+[![Badge](https://cp-logo.vercel.app/codeforces/k_agarwal?logo=true)](https://www.codechef.com/users/k_agarwal)
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=The-Keshav-Agarwal.The-Keshav-Agarwal)
 
 ![Keshav Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Keshav-Agarwal&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Keshav-Agarwal&layout=compact&count_private=true&langs_count=5&theme=radical)
 
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=The-Keshav-Agarwal.The-Keshav-Agarwal)
