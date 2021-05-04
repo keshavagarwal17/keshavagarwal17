@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Nothing**.
 - 🌱 I’m currently learning **Nothing**.
 - 👯 I’m looking to collaborate on **Web Projects**.
-- 🤔 I’m looking for help with **DSA**.
+- 🤔 I’m looking for help with **Open Source Project**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love **sleeping** and watching **tmkoc**.
 - 📫 Let us Connect: 
