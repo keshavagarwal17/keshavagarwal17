@@ -10,7 +10,7 @@
 - 📫 Let us Connect: 
   <p align='center'>
   <a href="mailto:keshavagarwal1710@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/keshav-agarwal-84b5221a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/keshavagarwal1710/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.github.com/The-Keshav-Agarwal/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
 
 [![Badge](https://cp-logo.vercel.app/codechef/agarwal_keshav?logo=true)](https://www.codechef.com/users/agarwal_keshav)
