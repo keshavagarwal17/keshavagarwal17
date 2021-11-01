@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I'm Keshav Agarwal! A 3rd year undergraduate at IIIT Vadodara.
 
-- 🔭 I’m currently working on **[IIITV Alumni Portal](https://github.com/iiitv/alumni-portal)**.
+<!-- - 🔭 I’m currently working on **[IIITV Alumni Portal](https://github.com/iiitv/alumni-portal)**. -->
 - 👯 I’m looking to collaborate on **Web Projects**.
 - 🤔 I’m looking for help with **Open Source Project**.
 - 😄 Pronouns: He/Him
