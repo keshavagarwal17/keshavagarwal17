@@ -11,7 +11,7 @@
   <p align='center'>
   <a href="mailto:keshavagarwal1710@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/keshavagarwal1710/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.github.com/The-Keshav-Agarwal/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="https://www.github.com/keshavagarwal17/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
   <a href="https://www.codechef.com/users/agarwal_keshav"><img src="https://img.shields.io/badge/agarwal_keshav-b5651d?style=for-the-badge&logo=codechef&logoColor=white"></a>
   <a href="https://codeforces.com/profile/k_agarwal"><img src="https://img.shields.io/badge/k_agarwal-FFD580?style=for-the-badge&logo=codeforces&logoColor=white"></a>
   <a href="https://twitter.com/keshav_aga"><img src="https://img.shields.io/badge/keshav_aga-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
@@ -38,6 +38,6 @@
 [![Badge](https://cp-logo.vercel.app/codeforces/k_agarwal?logo=true)](https://codeforces.com/profile/k_agarwal)
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=The-Keshav-Agarwal.The-Keshav-Agarwal)
 
-![Keshav Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Keshav-Agarwal&count_private=true&show_icons=true&theme=radical)
+![Keshav Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavagarwal17&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Keshav-Agarwal&layout=compact&count_private=true&langs_count=5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavagarwal17&layout=compact&count_private=true&langs_count=5&theme=radical)
