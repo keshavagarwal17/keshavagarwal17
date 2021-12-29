@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/keshavagarwal1710/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.github.com/keshavagarwal17/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
   <a href="https://www.codechef.com/users/agarwal_keshav"><img src="https://img.shields.io/badge/agarwal_keshav-b5651d?style=for-the-badge&logo=codechef&logoColor=white"></a>
-  <a href="https://codeforces.com/profile/k_agarwal"><img src="https://img.shields.io/badge/k_agarwal-FFD580?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/agarwal_keshav"><img src="https://img.shields.io/badge/agarwal_keshav-FFD580?style=for-the-badge&logo=codeforces&logoColor=white"></a>
   <a href="https://twitter.com/keshav_aga"><img src="https://img.shields.io/badge/keshav_aga-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="https://www.facebook.com/people/Keshav-Agarwal/100051386645412/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   
