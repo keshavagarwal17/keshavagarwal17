@@ -33,9 +33,9 @@
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></img>
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></img>
   </p>
-  
+<!--   
 [![Badge](https://cp-logo.vercel.app/codechef/agarwal_keshav?logo=true)](https://www.codechef.com/users/agarwal_keshav)
-[![Badge](https://cp-logo.vercel.app/codeforces/k_agarwal?logo=true)](https://codeforces.com/profile/k_agarwal)
+[![Badge](https://cp-logo.vercel.app/codeforces/k_agarwal?logo=true)](https://codeforces.com/profile/k_agarwal) -->
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=The-Keshav-Agarwal.The-Keshav-Agarwal)
 
 ![Keshav Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavagarwal17&count_private=true&show_icons=true&theme=radical)
