@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on **Web Projects**.
 - 🤔 I’m looking for help with **Open Source Project**.
 - 😄 Pronouns: He/Him
+- 💬 Ask me about Competitive Programming, Data Structure and Algorithm.
 - ⚡ Fun fact: I love watching **tmkoc**.
 - 📫 Let us Connect: 
   <p align='center'>
