@@ -7,8 +7,8 @@
 - 👯 I’m looking to collaborate on **Web Projects**.
 - 🤔 I’m looking for help with **Open Source Project**.
 - 😄 Pronouns: He/Him
-- 💬 Ask me about Competitive Programming, Data Structure and Algorithm.
-- ⚡ Fun fact: I love watching **tmkoc**.
+- 💬 Ask me about **Competitive Programming**, **Data Structure and Algorithm**.
+- ⚡ Fun fact: I love to watch **tmkoc**.
 - 📫 Let us Connect: 
   <p align='center'>
   <a href="mailto:keshavagarwal1710@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
