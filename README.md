@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <!-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  -->
 
-## Hi, I'm Keshav Agarwal! A 3rd year undergraduate at IIIT Vadodara.
+## Hi, I'm Keshav Agarwal! A final year undergraduate at IIIT Vadodara.
 
 <!-- - 🔭 I’m currently working on **[IIITV Alumni Portal](https://github.com/iiitv/alumni-portal)**. -->
 - 👯 I’m looking to collaborate on **Web Projects**.
