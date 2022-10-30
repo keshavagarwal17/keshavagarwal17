@@ -18,8 +18,8 @@
   <a href="https://codeforces.com/profile/agarwal_keshav"><img src="https://img.shields.io/badge/agarwal_keshav-FFD580?style=for-the-badge&logo=codeforces&logoColor=white"></a>
   <a href="https://twitter.com/keshav_aga"><img src="https://img.shields.io/badge/keshav_aga-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="https://www.facebook.com/people/Keshav-Agarwal/100051386645412/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/thekeshav17/">
-    <img src="https://img.shields.io/badge/@thekeshav17-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/keshav.agarwal17/">
+    <img src="https://img.shields.io/badge/@keshav.agarwal17-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a/>
   
   <summary><h2>Languages And Tools</h2></summary>
