@@ -42,7 +42,7 @@
 [![Badge](https://cp-logo.vercel.app/codechef/agarwal_keshav?logo=true)](https://www.codechef.com/users/agarwal_keshav)
 [![Badge](https://cp-logo.vercel.app/codeforces/k_agarwal?logo=true)](https://codeforces.com/profile/k_agarwal) -->
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=The-Keshav-Agarwal.The-Keshav-Agarwal)
-
+<!-- 
 ![Keshav Agarwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavagarwal17&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavagarwal17&layout=compact&count_private=true&langs_count=5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavagarwal17&layout=compact&count_private=true&langs_count=5&theme=radical) -->
